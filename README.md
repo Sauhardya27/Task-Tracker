@@ -46,15 +46,15 @@ A simple and intuitive personal task management application built with React. Th
 ## 🖼 Screenshots
 
 ### Login Screen
-![Login Screen](/Login.png)
+![Login Screen](/public/Login.png)
 *Simple and clean login interface*
 
 ### Task Dashboard
-![Task Dashboard](/Dashboard.png)
+![Task Dashboard](/public/Dashboard.png)
 *Main dashboard showing task management features*
 
 ### Task Filtering
-![Task Filtering](/Filtering.png)
+![Task Filtering](/public/Filtering.png)
 *Filter tasks by completion status*
 
 ## 🏗 Project Structure
